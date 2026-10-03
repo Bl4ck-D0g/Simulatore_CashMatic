@@ -39,8 +39,8 @@ class Dispositivo:
 		self.max_cashbox = 500
 		self.nome = "Cashmatic SelfPay Simulator"
 		self.modello = "Cashmatic SelfPay 660"
-		self.numero_serie = "0123 01 0123 01 01234"
-		self.indirizzo_vpn = "4.0.0.1"
+		self.numero_serie = "0123 66 0123 60 01234"
+		self.indirizzo_vpn = "10.0.10.1"
 		self.modalita_fiduciaria = False
 		self.configurazione = self._configurazione_base()
 		self.denominazioni = []
