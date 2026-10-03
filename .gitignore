@@ -1,0 +1,4 @@
+Log/
+__pycache__/
+*.pyc
+certificati/*

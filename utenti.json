@@ -1,0 +1,17 @@
+[
+  {
+    "id" :  0,
+    "username": "cashmatic",
+    "password": "admin"
+  },
+  {
+    "id": 1,
+    "username": "selfpay",
+    "password": "selfpay123"
+  },
+  {
+    "id": 2,
+    "username": "boss",
+    "password": "boss123"
+  }
+]
